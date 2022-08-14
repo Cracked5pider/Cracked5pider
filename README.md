@@ -5,4 +5,9 @@ I'm a hobby Programmer and I love to write Offensive Tools in C/C++ and Assembly
 - [Twitter](https://twitter.com/C5pider)
 - [Website](https://5pider.net)
 
-![Cracked5pider's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cracked5pider&show_icons=true&theme=dracula)
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cracked5pider&show_icons=true&theme=dracula" />
+</a>
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cracked5pider&layout=compact&show_icons=true&theme=dracula" />
+</a>
