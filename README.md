@@ -6,8 +6,8 @@ I'm a hobbyist Programmer and I love to write Offensive Tools in C/C++ and Assem
 - [Website](https://5pider.net)
 
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cracked5pider&show_icons=true&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cracked5pider&show_icons=true&theme=tokyonight" />
 </a>
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cracked5pider&layout=compact&show_icons=true&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cracked5pider&layout=compact&show_icons=true&theme=tokyonight" />
 </a>
