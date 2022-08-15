@@ -1,5 +1,5 @@
 Hey I'm C5pider. <br>
-I'm a hobby Programmer and I love to write Offensive Tools in C/C++ and Assembly.
+I'm a hobbyist Programmer and I love to write Offensive Tools in C/C++ and Assembly.
 
 #### Social:
 - [Twitter](https://twitter.com/C5pider)
